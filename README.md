@@ -1,4 +1,4 @@
->#### Code cannot be shared beacause of course privacy policy. 
+#### Code cannot be shared beacause of course privacy policy. 
 
 
 #CS6741 Machine Learning
