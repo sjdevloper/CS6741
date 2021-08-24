@@ -9,15 +9,15 @@
 
 ### 2.RANDOMIZED LEARNING
 
-> -  It talked about the most famous optimized algorithms, which are Randomized hill climbing, simulated annealing, a genetic algorithm, and MIMIC.
+ -  It talked about the most famous optimized algorithms, which are Randomized hill climbing, simulated annealing, a genetic algorithm, and MIMIC.
 
 ### 3.SUPERVISED LEARNING
 
-> - Supervised learning is divided into regression and classification. In my article, I am going to talk about Classification in five different Algorithms.
+ - Supervised learning is divided into regression and classification. In my article, I am going to talk about Classification in five different Algorithms.
 
 
 ### 4.UNSUPERVISED LEARNING AND DIMENSIONALITY REDUCTION
 
-> - This article will talk about some of the clustering and dimensionality reduction algorithms.
+ - This article will talk about some of the clustering and dimensionality reduction algorithms.
 
 
